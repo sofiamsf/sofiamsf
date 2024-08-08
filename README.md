@@ -1,16 +1,14 @@
-## Hi there 👋
+### *Boas vindas ao meu perfil❤️❤️*
 
-<!--
-**sofiamsf/sofiamsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Sofia da Silva Ferreira
 
-Here are some ideas to get you started:
+* Estou estudando na Alura
+* Estou me desenvolvendo na linguagem JavaScript
+* Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  
+### *Você pode entrar em contato comigo* 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mariasofiaa197@gmail.com
+@sofiamsf
+
+![](https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/11D93/production/_121270137_gettyimages-584047706.jpg.webp)
