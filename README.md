@@ -1,6 +1,6 @@
 ### *Boas vindas ao meu perfil❤️❤️*
 
-Meu nome é Maria Sofia da Silva Ferreira
+Meu nome é Maria Sofia 
 
 * Estou estudando na Alura
 * Estou me desenvolvendo na linguagem JavaScript
